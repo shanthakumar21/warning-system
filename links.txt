@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=7xvy9oru_0g
+
+https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6
+
+https://github.com/chsasank/Traffic-Sign-Classification.keras
+
+https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab 
+
+Python-Project-Traffic-Sign-Classification
+Traffic-Sign-Classification.keras-master
+Traffic-Sign-Detection-master
+
+https://data-flair.training/blogs/python-project-traffic-signs-recognition/      *************
+
+https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/
+
+https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb
+
+https://github.com/mohamedameen93/German-Traffic-Sign-Classification-Using-TensorFlow
+
+
+https://github.com/xslittlegrass/CarND-Vehicle-Detection
+
+https://github.com/ariaaan/traffic-signs-detector
